@@ -1,3 +1,8 @@
 How to delet a existing git repo? (use with caution)
      rm -rf .git
 https://stackoverflow.com/questions/1213430/how-to-fully-delete-a-git-repository-created-with-init
+
+
+starting clean
+git init
+
